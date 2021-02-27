@@ -58,3 +58,12 @@
 
 - Comando: ````git branch -d nome_da_branch````
     - Comando para deletar a branch informada
+
+- Comando: ````ssh-keygen````
+    - Comando para gerar chave ssh
+
+- Comando: ```` git clone nome_do_repo````
+    - Esse comando irá criar uma cópia do repositório na sua máquina
+
+- Comando: ```` git push````
+    - Comando para publicar suas modificações locais para o projeto
